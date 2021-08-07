@@ -3,3 +3,7 @@ Uses @Dropout1337 's HCaptcha bypass to create discord accounts and join them to
 
 
 Read the comments inside `e.py`. This was a quick 5 min code i made dont expect the best
+
+
+
+###### May not work anymore
